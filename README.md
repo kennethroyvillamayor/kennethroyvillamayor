@@ -15,6 +15,8 @@ Oracle
 
 [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate
 ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06E652FB100CE2F98C08A5B1F89B156A9C551C5AD6CB1C5F225980A4D6185410)
+
+
 Skillset:
 Java
 HTML
